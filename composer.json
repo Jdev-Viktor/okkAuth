@@ -1,0 +1,8 @@
+{
+    "name": "jDev/okk-auth",
+    "autoload": {
+        "psr-0" : {
+            "jdev\\okk-auth" : "src"
+        }
+    }
+}
