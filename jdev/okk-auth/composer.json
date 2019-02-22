@@ -1,11 +1,16 @@
 {
-    "name": "dev/okk-auth",
+    "name": "jDev/okk-auth",
     "authors": [
         {
             "name": "Viktor",
             "email": "dev@temposys.name"
         }
     ],
+    "autoload": {
+        "psr-0" : {
+            "jdev\\okk-auth" : "src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {
         "php": "^7.1.3",
