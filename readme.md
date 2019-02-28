@@ -4,17 +4,6 @@
 
 Via Composer
 
-add to composer.json
-
-```
-"repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/MrGeseR/OkkAuth"
-        }
-    ]
-```
-terminal
 ``` bash
 $ composer require jdev/okkauth
 ```
