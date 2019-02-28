@@ -1,8 +1,8 @@
 {
     "name": "jdev/okkauth",
-    "description": ":description",
+    "description": "This is a test package for authorisation via OKK",
     "license": "FTL",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "authors": [
         {
             "name": "Viktor",
