@@ -1,12 +1,12 @@
 {
     "name": "jdev/okkauth",
     "description": ":description",
-    "license": "license",
+    "license": "Free-licence",
     "authors": [
         {
             "name": "Viktor",
             "email": "dev@temposys.name",
-            "homepage": "author homepage"
+            "homepage": "jdev.com.ua"
         }
     ],
     "homepage": "https://github.com/MrGeseR/okkAuth",
