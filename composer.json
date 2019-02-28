@@ -2,6 +2,7 @@
     "name": "jdev/okkauth",
     "description": ":description",
     "license": "FTL",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Viktor",
