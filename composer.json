@@ -1,7 +1,7 @@
 {
     "name": "jdev/okkauth",
     "description": ":description",
-    "license": "https://spdx.org/licenses/FTL.html",
+    "license": "FTL",
     "authors": [
         {
             "name": "Viktor",
